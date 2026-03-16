@@ -23,7 +23,7 @@ export default function Screen2({ onNext }) {
 
       <div className="space-y-3 relative z-10">
         <h1 className="text-[2rem] font-black tracking-tight text-transparent bg-clip-text bg-linear-to-b from-rose-100 to-rose-400 drop-shadow-[0_0px_15px_rgba(244,113,133,0.4)] leading-tight relative z-10">
-          You can't go too far from me <span className='text-white'>😌</span>
+          whenever you need just call me <span className='text-white'>😌</span>
         </h1>
         <p className="text-pink-200/70 font-medium text-lg">
           Want to know why?
