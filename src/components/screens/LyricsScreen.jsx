@@ -5,10 +5,10 @@ export default function LyricsScreen({ onComplete }) {
   const [currentLine, setCurrentLine] = useState(-1);
 
   const lyrics = [
-    "Jaayegi tu jahan",
-    "Aaunga main wahan",
-    "Meri banegi tu",
-    "Aana tujhe yahaan"
+    "जै तू थोड़ी घबरा ज्या",
+    "मेरी याद तन्नै आ ज्या",
+    "तू दे दिए आवाज",
+    "रे, मैं जाऊँगा"
   ];
 
   useEffect(() => {
